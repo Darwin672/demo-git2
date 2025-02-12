@@ -1,3 +1,3 @@
-# demo-git2
+# git-demo 
 
 rgkllmejrgotjogegpetngpejrg
